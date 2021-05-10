@@ -73,7 +73,7 @@
     <section class="pricing-section padding-top oh padding-bottom pb-lg-half bg_img pos-rel" data-background="{{ asset('./assets/images/bg/pricing-bg.jpg') }}" id="pricing">
         <div class="container">
             <div class="section-header cl-white">
-                <h2 class="title">Features</h2>
+                <h2 class="title" style="color: #22750B;">Features</h2>
             </div>
             <div class="tab-up">
                 <ul class="tab-menu pricing-menu">
