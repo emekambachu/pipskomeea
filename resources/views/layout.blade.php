@@ -113,19 +113,16 @@
         <div class="footer-bottom">
             <ul class="footer-link">
                 <li>
-                    <a href="#0">About</a>
+                    <a href="mail:Pipskomeconsultant@gmail.com">Pipskomeconsultant@gmail.com</a>
                 </li>
                 <li>
-                    <a href="#0">FAQs</a>
+                    <a href="tel:08065123227">08065123227</a>
                 </li>
                 <li>
-                    <a href="#0">Contact</a>
+                    <a href="{{ url('terms') }}">Terms of Service</a>
                 </li>
                 <li>
-                    <a href="#0">Terms of Service</a>
-                </li>
-                <li>
-                    <a href="#0">Privacy</a>
+                    <a href="{{ url('privacy-policy') }}">Privacy Policy</a>
                 </li>
             </ul>
         </div>
