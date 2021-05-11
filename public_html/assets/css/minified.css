@@ -28684,7 +28684,7 @@ input[type=submit] {
 
 @media (min-width:992px) {
     .pricing-content {
-        max-width: 480px
+        max-width: 100%;
     }
 }
 

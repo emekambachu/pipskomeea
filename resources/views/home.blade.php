@@ -432,7 +432,7 @@
 
 
     <!--============= Faq Section Starts Here =============-->
-    <section class="faq-section padding-top">
+    <section class="faq-section padding-top mb-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -441,7 +441,7 @@
                             <img src="{{ asset('assets/images/cate.png') }}" alt="cate">
                         </div>
                         <h2 class="title">Frequently Asked Questions</h2>
-                        <a href="#0">More Questions <i class="flaticon-right"></i></a>
+                        <a href="{{ url('faq') }}">More Questions <i class="flaticon-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -451,9 +451,9 @@
                                 <i class="flaticon-pdf"></i>
                             </div>
                             <div class="faq-content">
-                                <h4 class="title">Is the Web App Secure?</h4>
+                                <h4 class="title">what do I need to start Trading with PipskomeEA robot?</h4>
                                 <p>
-                                    Web application security is the process of protecting websites and online services against different security threats that exploit vulnerabilities in an application’s code.
+                                    You will need to buy the PipskomeEA robot
                                 </p>
                             </div>
                         </div>
@@ -462,10 +462,8 @@
                                 <i class="flaticon-pdf"></i>
                             </div>
                             <div class="faq-content">
-                                <h4 class="title">What features does the Web App have?</h4>
-                                <p>
-                                    Both the Mobile Apps and the Web App give you the ability to you to access your account information, view news releases, report an outage, and contact us via email or phone.
-                                </p>
+                                <h4 class="title">How much is the PipskomeEA robot?</h4>
+                                <p>$300 & $400</p>
                             </div>
                         </div>
                         <div class="faq-item">
@@ -473,23 +471,53 @@
                                 <i class="flaticon-pdf"></i>
                             </div>
                             <div class="faq-content">
-                                <h4 class="title">How do I get the Mobile App for my phone?</h4>
-                                <p>
-                                    Both the Mobile Apps and the Web App give you the ability to you to access your account information, view news releases, report an outage, and contact us via email or phone.
-                                </p>
+                                <h4 class="title">How long will PipskomeEA robot work and trade for me?</h4>
+                                <p>One time payment for 3years.</p>
                             </div>
                         </div>
+
                         <div class="faq-item">
                             <div class="faq-thumb">
                                 <i class="flaticon-pdf"></i>
                             </div>
                             <div class="faq-content">
-                                <h4 class="title">How does Mosto differ from usual apps? </h4>
+                                <h4 class="title">How do I pay for the PipskomeEA robot and how will I receive it? </h4>
                                 <p>
-                                    Both the Mobile Apps and the Web App give you the ability to you to access your account information, view news releases, report an outage, and contact us via email or phone.
+
                                 </p>
                             </div>
                         </div>
+
+                        <div class="faq-item">
+                            <div class="faq-thumb">
+                                <i class="flaticon-pdf"></i>
+                            </div>
+                            <div class="faq-content">
+                                <h4 class="title">After receiving the robot how do I use it?</h4>
+                                <p>How to install robot and use it will be sent to you.</p>
+                            </div>
+                        </div>
+
+                        <div class="faq-item">
+                            <div class="faq-thumb">
+                                <i class="flaticon-pdf"></i>
+                            </div>
+                            <div class="faq-content">
+                                <h4 class="title">What if I don't have any knowledge about forex can I still use your PipskomeEA Robot?</h4>
+                                <p>Yes.</p>
+                            </div>
+                        </div>
+
+                        <div class="faq-item">
+                            <div class="faq-thumb">
+                                <i class="flaticon-pdf"></i>
+                            </div>
+                            <div class="faq-content">
+                                <h4 class="title">what if I don't have a trading account?</h4>
+                                <p>You will be guided on how to create your trading account and also how to fund it and use the PipskomeEA robot on it.</p>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>

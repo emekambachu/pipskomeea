@@ -124,6 +124,9 @@
                 <li>
                     <a href="{{ url('privacy-policy') }}">Privacy Policy</a>
                 </li>
+                <li>
+                    <a href="{{ url('faq') }}">FAQ</a>
+                </li>
             </ul>
         </div>
         <div class="copyright">

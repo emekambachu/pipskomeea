@@ -5,49 +5,91 @@
 @endsection
 
 @section('content')
-    <!--============= Banner Section Starts Here =============-->
-    <section class="banner-4 bg_img oh bottom_left" data-background="{{ asset('assets/images/banner/banner-12-bg.png') }}">
+{{--    <!--============= Banner Section Starts Here =============-->--}}
+{{--    <section class="banner-4 bg_img oh bottom_left" data-background="{{ asset('assets/images/banner/banner-12-bg.png') }}">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row align-items-center">--}}
+{{--                <div class="col-lg-12">--}}
+{{--                    <div class="banner-content-3 mt-5">--}}
+{{--                        <h1 class="title">Pipskome EA V12</h1>--}}
+{{--                        <p>Pipskome EA is a Powerful Forex Auto Trading EA Robot optimized for up to 5% Daily profits*.</p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                --}}{{--                <div class="col-12">--}}
+{{--                --}}{{--                    <div class="banner-odometer">--}}
+{{--                --}}{{--                        <div class="counter-item">--}}
+{{--                --}}{{--                            <div class="counter-thumb">--}}
+{{--                --}}{{--                                <img src="{{ asset('assets/images/icon/counter1.png') }}" alt="icon">--}}
+{{--                --}}{{--                            </div>--}}
+{{--                --}}{{--                            <div class="counter-content">--}}
+{{--                --}}{{--                                <h2 class="title"><span class="counter">17501</span></h2>--}}
+{{--                --}}{{--                                <span>Premium User</span>--}}
+{{--                --}}{{--                            </div>--}}
+{{--                --}}{{--                        </div>--}}
+{{--                --}}{{--                        <div class="counter-item">--}}
+{{--                --}}{{--                            <div class="counter-thumb">--}}
+{{--                --}}{{--                                <img src="{{ asset('assets/images/icon/counter2.png') }}" alt="icon">--}}
+{{--                --}}{{--                            </div>--}}
+{{--                --}}{{--                            <div class="counter-content">--}}
+{{--                --}}{{--                                <h2 class="title"><span class="counter">1987</span></h2>--}}
+{{--                --}}{{--                                <span>Daily Visitors</span>--}}
+{{--                --}}{{--                            </div>--}}
+{{--                --}}{{--                        </div>--}}
+{{--                --}}{{--                    </div>--}}
+{{--                --}}{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </section>--}}
+{{--    <!--============= Banner Section Ends Here =============-->--}}
+
+    <!--============= Pricing Section Starts Here =============-->
+    <section class="pricing-section padding-top oh padding-bottom pb-md-0 bg_img pos-rel"
+             data-background="{{ asset('./assets/images/bg/pricing-bg.jpg') }}" id="pricing">
         <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-12">
-                    <div class="banner-content-3 mt-5">
-                        <h1 class="title">Pipskome EA V12</h1>
-                        <p>Pipskome EA is a Powerful Forex Auto Trading EA Robot optimized for up to 5% Daily profits*.</p>
+            <div class="section-header pb-30 cl-white">
+                <h2 class="title" style="color: #22750B;">Our Products</h2>
+                <p class="text-dark">
+                    Pipskome EA is a Powerful Forex Auto Trading EA Robot optimized for up to 5% Daily profits
+                </p>
+            </div>
+            <div class="row justify-content-center mb-30-none">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                    <div class="pricing-item">
+                        <div class="pricing-thumb">
+                            <img src="{{ asset('assets/images/pricing/pricing5.png') }}" alt="pricing">
+                        </div>
+                        <div class="pricing-content">
+                            <div class="pricing-header">
+                                <h2 class="title">PipskomeEA-M5 Robot</h2>
+                                <h2 class="title">PipskomeEA-X2021 Robot</h2>
+                            </div>
+                            <ul>
+                                <li>Opens / Closes trades daily</li>
+                                <li>No Monthly Subscription</li>
+                                <li>247 Live Support</li>
+                                <li>Real-time Monitoring on your phone or PC</li>
+                                <li>No Experience in trading required</li>
+                                <li>Help with installation and setup</li>
+                                <li>Works with any broker</li>
+                                <li>Accurate Profit 10 - 30%</li>
+                                <li>Low risk settings</li>
+                                <li>Secures your capital</li>
+                                <li>Easy withdrawal/deposit</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
-                {{--                <div class="col-12">--}}
-                {{--                    <div class="banner-odometer">--}}
-                {{--                        <div class="counter-item">--}}
-                {{--                            <div class="counter-thumb">--}}
-                {{--                                <img src="{{ asset('assets/images/icon/counter1.png') }}" alt="icon">--}}
-                {{--                            </div>--}}
-                {{--                            <div class="counter-content">--}}
-                {{--                                <h2 class="title"><span class="counter">17501</span></h2>--}}
-                {{--                                <span>Premium User</span>--}}
-                {{--                            </div>--}}
-                {{--                        </div>--}}
-                {{--                        <div class="counter-item">--}}
-                {{--                            <div class="counter-thumb">--}}
-                {{--                                <img src="{{ asset('assets/images/icon/counter2.png') }}" alt="icon">--}}
-                {{--                            </div>--}}
-                {{--                            <div class="counter-content">--}}
-                {{--                                <h2 class="title"><span class="counter">1987</span></h2>--}}
-                {{--                                <span>Daily Visitors</span>--}}
-                {{--                            </div>--}}
-                {{--                        </div>--}}
-                {{--                    </div>--}}
-                {{--                </div>--}}
             </div>
         </div>
     </section>
-    <!--============= Banner Section Ends Here =============-->
+    <!--============= Pricing Section Ends Here =============-->
 
     <!--============= Pricing Section Starts Here =============-->
     <section class="pricing-section padding-top oh padding-bottom pb-lg-half bg_img pos-rel"
              data-background="{{ asset('./assets/images/bg/pricing-bg.jpg') }}" id="pricing">
         <div class="container">
             <div class="section-header cl-white">
-                <h2 class="title" style="color: #22750B;">What is so special ?</h2>
+                <h2 class="title" style="color: #22750B;">What is so special?</h2>
             </div>
             <div class="tab-up">
                 <div class="tab-area">
