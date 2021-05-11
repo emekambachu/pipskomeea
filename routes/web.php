@@ -19,8 +19,8 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('ea-expert-advisor', function () {
-    return view('ea-expert-advisor');
+Route::get('products', function () {
+    return view('products');
 });
 
 Route::get('terms', function () {

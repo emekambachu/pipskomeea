@@ -1,7 +1,7 @@
 @extends('layout')
 
 @section('title')
-    EA Expert Advisor
+    Our Products
 @endsection
 
 @section('content')

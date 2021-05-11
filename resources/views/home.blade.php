@@ -12,16 +12,18 @@
                 <div class="col-lg-7">
                     <div class="banner-content-3">
                         <h1 class="title">PipskomeEA Consult</h1>
-                        <p>The PipskomeEA was launched in 2018. A forex signal website with a unique vision to provide exceptional superior trading setups quality education and state-of-the-art trading tools in the forex industry. As an outcome of a continuous focus on localizing our products and services to be suitable to each market.<br>
+                        <p>The PipskomeEA was launched in 2018. A forex signal website with a unique vision to provide exceptional superior trading setups quality education and state-of-the-art trading tools in the forex industry. As an outcome of a continuous focus on localizing our products and services to be suitable to each market.<br><br>
+
                             We are one of the best signal provider industry delivering up-to-date market news and analysis to professional & beginners. Together with our successful collaboration with talented and experienced teams from all over the world.
                         </p>
                         <div class="banner-button-group">
-                            <a href="#0" class="button-4">Expert Advisor</a>
+                            <a href="{{ url('products') }}" class="button-4">Products</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-5">
-                    <div class="banner-nav-container bg_img bg_contain bottom_center" data-background="assets/images/banner/banner-4.png">
+                    <div class="banner-nav-container bg_img bg_contain bottom_center"
+                         data-background="assets/images/banner/banner-4.png">
                         <div class="ban-nav">
                             <a href="#0" class="ban-prev active">
                                 <i class="flaticon-left"></i>

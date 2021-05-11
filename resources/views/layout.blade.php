@@ -51,7 +51,7 @@
                     <a href="{{ url('/') }}">Home</a>
                 </li>
                 <li>
-                    <a href="{{ url('ea-expert-advisor') }}">EA Expert Advisor</a>
+                    <a href="{{ url('products') }}">Products</a>
                 </li>
                 <li>
                     <a href="#0">About</a>
