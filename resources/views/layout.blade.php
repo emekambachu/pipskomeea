@@ -97,7 +97,7 @@
     <div class="container">
         <div class="footer-top padding-top padding-bottom">
             <div class="logo">
-                <a href="#0">
+                <a href="{{ url('/') }}">
                     <img src="{{ asset('pipskomeea_logo_400.png') }}" width="150" alt="logo">
                 </a>
             </div>

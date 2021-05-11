@@ -49,42 +49,45 @@
     </section>
     <!--============= Banner Section Ends Here =============-->
 
-    <!--============= Pricing Section Starts Here =============-->
-    <section class="pricing-section padding-top oh padding-bottom pb-lg-half bg_img pos-rel" data-background="{{ asset('./assets/images/bg/pricing-bg.jpg') }}" id="pricing">
+    <section class="pricing-section padding-top oh padding-bottom pb-md-0 bg_img pos-rel"
+             data-background="{{ asset('./assets/images/bg/pricing-bg.jpg') }}" id="pricing">
         <div class="container">
-            <div class="section-header cl-white">
-                <h2 class="title" style="color: #22750B;">Features</h2>
+            <div class="section-header pb-30 cl-white">
+                <h2 class="title" style="color: #22750B;">Our Products</h2>
+                <p class="text-dark">
+                    Pipskome EA is a Powerful Forex Auto Trading EA Robot optimized for up to 5% Daily profits
+                </p>
             </div>
-            <div class="tab-up">
-                <ul class="tab-menu pricing-menu">
-                    <li class="active">Monthly</li>
-                    <li>Yearly</li>
-                </ul>
-                <div class="tab-area">
-                    <div class="tab-item active">
-                        <div class="pricing-slider-wrapper">
-                            <div class="pricing-slider owl-theme owl-carousel">
-                                <div class="pricing-item-2">
-                                    <h5 class="cate">Pipskome EA V6.0</h5>
-                                    <div class="thumb">
-                                        <img src="{{ asset('assets/images/pricing/pricing1.png') }}" alt="pricing">
-                                    </div>
-                                    <p>
-                                        Pipskome EA EA is an Expert Advisor which enables you to do automated trading.<br><br>
-                                        it's strong analysis strategy will make you 5% on a daily basis.<br><br>
-                                        you can run it 24/7 via VPS
-                                    </p>
-                                    <a href="#0" class="get-button">Select Plan<i class="flaticon-right"></i></a>
-                                </div>
-
+            <div class="row justify-content-center mb-30-none">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                    <div class="pricing-item">
+                        <div class="pricing-thumb">
+                            <img src="{{ asset('assets/images/pricing/pricing5.png') }}" alt="pricing">
+                        </div>
+                        <div class="pricing-content">
+                            <div class="pricing-header">
+                                <h2 class="title">PipskomeEA-M5 Robot</h2>
+                                <h2 class="title">PipskomeEA-X2021 Robot</h2>
                             </div>
+                            <ul>
+                                <li>Opens / Closes trades daily</li>
+                                <li>No Monthly Subscription</li>
+                                <li>247 Live Support</li>
+                                <li>Real-time Monitoring on your phone or PC</li>
+                                <li>No Experience in trading required</li>
+                                <li>Help with installation and setup</li>
+                                <li>Works with any broker</li>
+                                <li>Accurate Profit 10 - 30%</li>
+                                <li>Low risk settings</li>
+                                <li>Secures your capital</li>
+                                <li>Easy withdrawal/deposit</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!--============= Pricing Section Ends Here =============-->
 
     <!--============= Colaboration Section Starts Here =============-->
     <section class="colaboration-section padding-top-2 padding-bottom-2 oh" id="screenshot">
