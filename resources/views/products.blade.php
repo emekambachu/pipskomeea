@@ -5,42 +5,6 @@
 @endsection
 
 @section('content')
-{{--    <!--============= Banner Section Starts Here =============-->--}}
-{{--    <section class="banner-4 bg_img oh bottom_left" data-background="{{ asset('assets/images/banner/banner-12-bg.png') }}">--}}
-{{--        <div class="container">--}}
-{{--            <div class="row align-items-center">--}}
-{{--                <div class="col-lg-12">--}}
-{{--                    <div class="banner-content-3 mt-5">--}}
-{{--                        <h1 class="title">Pipskome EA V12</h1>--}}
-{{--                        <p>Pipskome EA is a Powerful Forex Auto Trading EA Robot optimized for up to 5% Daily profits*.</p>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--                --}}{{--                <div class="col-12">--}}
-{{--                --}}{{--                    <div class="banner-odometer">--}}
-{{--                --}}{{--                        <div class="counter-item">--}}
-{{--                --}}{{--                            <div class="counter-thumb">--}}
-{{--                --}}{{--                                <img src="{{ asset('assets/images/icon/counter1.png') }}" alt="icon">--}}
-{{--                --}}{{--                            </div>--}}
-{{--                --}}{{--                            <div class="counter-content">--}}
-{{--                --}}{{--                                <h2 class="title"><span class="counter">17501</span></h2>--}}
-{{--                --}}{{--                                <span>Premium User</span>--}}
-{{--                --}}{{--                            </div>--}}
-{{--                --}}{{--                        </div>--}}
-{{--                --}}{{--                        <div class="counter-item">--}}
-{{--                --}}{{--                            <div class="counter-thumb">--}}
-{{--                --}}{{--                                <img src="{{ asset('assets/images/icon/counter2.png') }}" alt="icon">--}}
-{{--                --}}{{--                            </div>--}}
-{{--                --}}{{--                            <div class="counter-content">--}}
-{{--                --}}{{--                                <h2 class="title"><span class="counter">1987</span></h2>--}}
-{{--                --}}{{--                                <span>Daily Visitors</span>--}}
-{{--                --}}{{--                            </div>--}}
-{{--                --}}{{--                        </div>--}}
-{{--                --}}{{--                    </div>--}}
-{{--                --}}{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </section>--}}
-{{--    <!--============= Banner Section Ends Here =============-->--}}
 
     <!--============= Pricing Section Starts Here =============-->
     <section class="pricing-section padding-top oh padding-bottom pb-md-0 bg_img pos-rel"

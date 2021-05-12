@@ -11,8 +11,8 @@
             <div class="row align-items-center">
                 <div class="col-lg-7">
                     <div class="banner-content-3">
-                        <h1 class="title">Privacy Policy</h1>
-                        <p>
+                        <h1 class="title" style="color: #2fb40a;">Privacy Policy</h1>
+                        <p class="text-white">
                             <strong>Last updated on 02.05.2020</strong><br><br>
 
                             We value our privacy immensely. This is the reason we have developed a privacy policy in such way that we can serve our needs and so we do not collect or use any of your personal information, more than the amount we need to complete our stated objectives and other related purposes. Presented below is an outline of our privacy policy and standards.<br><br>

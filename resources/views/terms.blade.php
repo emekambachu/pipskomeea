@@ -11,8 +11,8 @@
             <div class="row align-items-center">
                 <div class="col-lg-12 mt-5">
                     <div class="banner-content-3">
-                        <h1 class="title">Terms and Conditions</h1>
-                        <p>
+                        <h1 class="title" style="color: #2fb40a;">Terms and Conditions</h1>
+                        <p class="text-white">
                             <strong>USER AGREEMENT:</strong> Stocks, Options, Forex and Future trading has large potential rewards, but also large potential risk. You must be aware of the risks and be willing to accept them in order to invest in the stock, binary options, or futures markets. Don’t trade with money you can’t afford to lose especially with leveraged instruments such as futures trading, or forex trading. The past performance of any trading system or methodology is not necessarily indicative of future results. You could lose all of your money fast due too: poor market trading conditions, mechanical error, emotional induced errors, news surprises, and earnings releases.<br><br>
 
                             Pipskome EA Robot takes no responsibility for loss incurred as a result of our trading signals. By signing up as a member, you acknowledge that we are not providing financial advice and that you are making a decision to copy our trades on your own account. We have no knowledge on the level of money you are trading with or the level of risk you are taking with each trade. In this regard, the amounts paid for the use of our signals can’t be refunded. You must make your own financial decisions, we take no responsibility for the money you made or lost as a result of our signals or advice on forex related products on this website. You should ensure you understand all of the risks associated with trading before using Pipskome EA Robot services.<br><br>
