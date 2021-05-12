@@ -14,12 +14,12 @@
                     <article class="mt-70 mt-lg-0">
 
                         <div class="faq--wrapper" id="get">
-                            <h3 class="main-title">Frequently Asked Questions</h3>
+                            <h3 class="main-title" style="color: #2fb40a;">Frequently Asked Questions</h3>
                             <div class="faq--area">
 
                                 <div class="faq--item">
                                     <div class="faq-title">
-                                        <h6 class="title">what do I need to start  Trading with PipskomeEA robot?</h6>
+                                        <h6 class="title" style="color: #2fb40a;">what do I need to start  Trading with PipskomeEA robot?</h6>
                                         <span class="icon"></span>
                                     </div>
                                     <div class="faq-content">
@@ -29,7 +29,7 @@
 
                                 <div class="faq--item">
                                     <div class="faq-title">
-                                        <h6 class="title">How much is the PipskomeEA robot?</h6>
+                                        <h6 class="title" style="color: #2fb40a;">How much is the PipskomeEA robot?</h6>
                                         <span class="icon"></span>
                                     </div>
                                     <div class="faq-content">
@@ -39,7 +39,7 @@
 
                                 <div class="faq--item">
                                     <div class="faq-title">
-                                        <h6 class="title">How long will PipskomeEA robot work and trade for me?</h6>
+                                        <h6 class="title" style="color: #2fb40a;">How long will PipskomeEA robot work and trade for me?</h6>
                                         <span class="icon"></span>
                                     </div>
                                     <div class="faq-content">
@@ -49,7 +49,7 @@
 
                                 <div class="faq--item">
                                     <div class="faq-title">
-                                        <h6 class="title">How do I pay for the PipskomeEA robot and how will I receive it?</h6>
+                                        <h6 class="title" style="color: #2fb40a;">How do I pay for the PipskomeEA robot and how will I receive it?</h6>
                                         <span class="icon"></span>
                                     </div>
                                     <div class="faq-content">
@@ -59,7 +59,7 @@
 
                                 <div class="faq--item">
                                     <div class="faq-title">
-                                        <h6 class="title">After receiving the robot how do I use it?</h6>
+                                        <h6 class="title" style="color: #2fb40a;">After receiving the robot how do I use it?</h6>
                                         <span class="icon"></span>
                                     </div>
                                     <div class="faq-content">
@@ -69,7 +69,7 @@
 
                                 <div class="faq--item">
                                     <div class="faq-title">
-                                        <h6 class="title">What if I don't have any knowledge about forex can I still use your PipskomeEA Robot?</h6>
+                                        <h6 class="title" style="color: #2fb40a;">What if I don't have any knowledge about forex can I still use your PipskomeEA Robot?</h6>
                                         <span class="icon"></span>
                                     </div>
                                     <div class="faq-content">
@@ -79,7 +79,7 @@
 
                                 <div class="faq--item">
                                     <div class="faq-title">
-                                        <h6 class="title">what if I don't have a trading account?</h6>
+                                        <h6 class="title" style="color: #2fb40a;">what if I don't have a trading account?</h6>
                                         <span class="icon"></span>
                                     </div>
                                     <div class="faq-content">
@@ -89,17 +89,19 @@
 
                                 <div class="faq--item">
                                     <div class="faq-title">
-                                        <h6 class="title">How much do I need to have in my trading account to be able to use PipskomeEA robot?</h6>
+                                        <h6 class="title" style="color: #2fb40a;">
+                                            How much do I need to have in my trading account to be able to use PipskomeEA robot?</h6>
                                         <span class="icon"></span>
                                     </div>
                                     <div class="faq-content">
-                                        <p>you will need the minimum of $500 - to be able to use a cent  account with PipskomeEA  robot.</p>
+                                        <p>you will need the minimum of $1000 - to be able to use a cent  account with PipskomeEA  robot.</p>
                                     </div>
                                 </div>
 
                                 <div class="faq--item">
                                     <div class="faq-title">
-                                        <h6 class="title">How much is expected profit using PipskomeEA robot per month?</h6>
+                                        <h6 class="title" style="color: #2fb40a;">
+                                            How much is expected profit using PipskomeEA robot per month?</h6>
                                         <span class="icon"></span>
                                     </div>
                                     <div class="faq-content">
@@ -109,7 +111,7 @@
 
                                 <div class="faq--item">
                                     <div class="faq-title">
-                                        <h6 class="title">Can I loss my money with PipskomeEA robot?</h6>
+                                        <h6 class="title" style="color: #2fb40a;">Can I loss my money with PipskomeEA robot?</h6>
                                         <span class="icon"></span>
                                     </div>
                                     <div class="faq-content">
@@ -119,7 +121,7 @@
 
                                 <div class="faq--item">
                                     <div class="faq-title">
-                                        <h6 class="title">What is my role after buying and installing the PipskomeEA robot?</h6>
+                                        <h6 class="title" style="color: #2fb40a;">What is my role after buying and installing the PipskomeEA robot?</h6>
                                         <span class="icon"></span>
                                     </div>
                                     <div class="faq-content">
@@ -129,27 +131,29 @@
 
                                 <div class="faq--item">
                                     <div class="faq-title">
-                                        <h6 class="title">Was I supposed to close or open trade after I have set up the PipskomeEA robot?</h6>
+                                        <h6 class="title" style="color: #2fb40a;">
+                                            Was I supposed to close or open trade after I have set up the PipskomeEA robot?</h6>
                                         <span class="icon"></span>
                                     </div>
                                     <div class="faq-content">
-                                        <p>No. The robot does the open and close of trade for you. Is an automated trading system.  So you are not to do anything.</p>
+                                        <p>No. The robot does the open and close of trade for you. Is an automated trading system. So you are not to do anything.</p>
                                     </div>
                                 </div>
 
                                 <div class="faq--item">
                                     <div class="faq-title">
-                                        <h6 class="title">How many days does the PipskomeEA robot trade?</h6>
+                                        <h6 class="title" style="color: #2fb40a;">How many days does the PipskomeEA robot trade?</h6>
                                         <span class="icon"></span>
                                     </div>
                                     <div class="faq-content">
-                                        <p>PipskomeEA robot trades 24/5 of the week nonstop.  From Sunday night 11pm till Friday night 10pm.</p>
+                                        <p>
+                                            PipskomeEA robot trades 24/5 of the week nonstop. From Sunday night 11pm till Friday night 10pm.</p>
                                     </div>
                                 </div>
 
                                 <div class="faq--item">
                                     <div class="faq-title">
-                                        <h6 class="title">Can PipskomeEA Robot be installed on a phone?</h6>
+                                        <h6 class="title" style="color: #2fb40a;">Can PipskomeEA Robot be installed on a phone?</h6>
                                         <span class="icon"></span>
                                     </div>
                                     <div class="faq-content">
@@ -161,7 +165,7 @@
                         </div>
 
                         <p>
-                            <strong>
+                            <strong class="text-white">
                                 Please read all Questions and answers carefully.<br> 
                                 For any further questions please call or send us an email
                             </strong>

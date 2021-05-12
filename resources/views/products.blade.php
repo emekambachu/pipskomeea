@@ -47,8 +47,8 @@
              data-background="{{ asset('./assets/images/bg/pricing-bg.jpg') }}" id="pricing">
         <div class="container">
             <div class="section-header pb-30 cl-white">
-                <h2 class="title" style="color: #22750B;">Our Products</h2>
-                <p class="text-dark">
+                <h2 class="title" style="color: #2fb40a;">Our Products</h2>
+                <p class="text-white">
                     Pipskome EA is a Powerful Forex Auto Trading EA Robot optimized for up to 5% Daily profits
                 </p>
             </div>
@@ -89,7 +89,7 @@
              data-background="{{ asset('./assets/images/bg/pricing-bg.jpg') }}" id="pricing">
         <div class="container">
             <div class="section-header cl-white">
-                <h2 class="title" style="color: #22750B;">What is so special?</h2>
+                <h2 class="title" style="color: #2fb40a;">What is so special?</h2>
             </div>
             <div class="tab-up">
                 <div class="tab-area">

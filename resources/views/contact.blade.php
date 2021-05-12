@@ -31,8 +31,8 @@
     <section class="contact-section padding-top padding-bottom">
         <div class="container">
             <div class="section-header mw-100 cl-white">
-                <h2 class="title">Contact us</h2>
-                <p>Send us a message</p>
+                <h2 class="title" style="color: #2fb40a;">Contact us</h2>
+                <p class="text-white">Send us a message</p>
             </div>
             <div class="row justify-content-center justify-content-lg-between">
                 <div class="col-lg-7">
@@ -81,8 +81,8 @@
                             <img src="{{ asset('assets/images/contact/man.png') }}" alt="bg">
                         </div>
                         <div class="section-header left-style">
-                            <h3 class="title">Have questions?</h3>
-                            <p>Have questions about payments or price
+                            <h3 class="title" style="color: #2fb40a;">Have questions?</h3>
+                            <p class="text-white">Have questions about payments or price
                                 plans? We have answers!</p>
                             <a href="{{ url('faq') }}">Read F.A.Q <i class="fas fa-angle-right"></i></a>
                         </div>
