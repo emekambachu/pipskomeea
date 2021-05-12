@@ -92,9 +92,9 @@
                                     <img src="{{ asset('assets/images/contact/contact1.png') }}" alt="contact">
                                 </div>
                                 <div class="contact-contact">
-                                    <h5 class="subtitle">Email Us</h5>
-                                    <a href="Mailto:Pipskomeconsultant@gmail.com">Pipskomeconsultant@gmail.com</a>
-                                    <a href="Mailto:info@pipskomeea.com">info@pipskomeea.com</a>
+                                    <h5 class="subtitle" style="color: #2fb40a;">Email Us</h5>
+                                    <a class="text-white" href="Mailto:Pipskomeconsultant@gmail.com">Pipskomeconsultant@gmail.com</a>
+                                    <a class="text-white" href="Mailto:info@pipskomeea.com">info@pipskomeea.com</a>
                                 </div>
                             </div>
                             <div class="contact-item">
@@ -102,8 +102,8 @@
                                     <img src="{{ asset('assets/images/contact/contact2.png') }}" alt="contact">
                                 </div>
                                 <div class="contact-contact">
-                                    <h5 class="subtitle">Call Us</h5>
-                                    <a href="Tel:08065123227">08065123227</a>
+                                    <h5 class="subtitle" style="color: #2fb40a;">Call Us</h5>
+                                    <a class="text-white" href="Tel:08065123227">08065123227</a>
                                 </div>
                             </div>
                             <div class="contact-item">
@@ -111,8 +111,9 @@
                                     <img src="{{ asset('assets/images/contact/contact3.png') }}" alt="contact">
                                 </div>
                                 <div class="contact-contact">
-                                    <h5 class="subtitle">Visit Us</h5>
-                                    <p>Workcity 3rd floor, Polyester building 2nd roundabout, Lekki Phase 1 Lagos State Nigeria.</p>
+                                    <h5 class="subtitle" style="color: #2fb40a;">Visit Us</h5>
+                                    <p class="text-white">
+                                        Workcity 3rd floor, Polyester building 2nd roundabout, Lekki Phase 1 Lagos State Nigeria.</p>
                                 </div>
                             </div>
                         </div>
